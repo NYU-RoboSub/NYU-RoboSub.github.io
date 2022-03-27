@@ -65,3 +65,6 @@ POC: Karenna and Ale
 Members: Ellawyn, William, Victor
 
 Sprint Meetings: Thursdays at 5PM
+
+# Questions?
+https://forms.gle/6KH5ebjEATutWNDm6
